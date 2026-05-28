@@ -1,6 +1,6 @@
-echo "env/
+env/
 venv/
 *.csv
 *.pkl
 __pycache__/
-*.json"
+*.json
